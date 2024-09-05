@@ -1,17 +1,18 @@
 # Fdb version 4
-["biber main"] 1725542677.1899 "main.bcf" "main.bbl" "main" 1725543078.35437 0
-  "main.bcf" 1725543077 108087 51f8655dfc7ed08e0d1265dcfd1a4da1 "pdflatex"
+["biber main"] 1725542677.1899 "main.bcf" "main.bbl" "main" 1725547389.75939 0
+  "main.bcf" 1725547389 108087 51f8655dfc7ed08e0d1265dcfd1a4da1 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1725543074.53924 "c:/Users/lucas/iCloudDrive/Desktop/Folders/Coding/TempLocal/FQMCnotes/Food Quality Notes/main.tex" "main.pdf" "main" 1725543078.35572 0
+["pdflatex"] 1725547386.13461 "c:/Users/lucas/iCloudDrive/Desktop/Folders/Coding/TempLocal/FQMCnotes/Food Quality Notes/main.tex" "main.pdf" "main" 1725547389.76083 0
   "Figures/DemingCircle.png" 1725542276 90864 5a2eccbbe805d4985dcb2f04fa052b65 ""
   "Figures/Parma Ham - Organization Diagram.png" 1725542276 88791 ab011f3dfe81256739a0379d36fc2ae1 ""
   "Figures/ThoroughDC.png" 1725542276 732579 789108f4d7b5c884854e7577af581352 ""
+  "Figures/qualVSvar.JPG" 1725546766 16071 e36d37d506853d50389c25b55a497c5e ""
   "TexFiles/appendix.tex" 1725542276 22 03e77c6142016f57df14e2aed2d46d67 ""
   "TexFiles/chapter1.tex" 1725542276 3731 058428f680ef50b6266d65c78ba45514 ""
-  "TexFiles/chapter2.tex" 1725543066 5875 2e78515cac8ff22913f80ec459a2d57a ""
+  "TexFiles/chapter2.tex" 1725547385 9098 cbd277cef5675c1aab3e9eefc766beab ""
   "TexFiles/chapter3.tex" 1725542276 6142 7dda6c290f3513070e014100558a4e43 ""
   "TexFiles/frontpage.tex" 1725542276 676 a52db9df9ca28f2581cda656b03d578e ""
   "c:/Users/lucas/iCloudDrive/Desktop/Folders/Coding/TempLocal/FQMCnotes/Food Quality Notes/main.tex" 1725542276 612 6acab989259d1b796deb567aded9fd5c ""
@@ -249,12 +250,12 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1725486235 5543950 2aa73a438b7054b2327b796fbe5f4275 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1725486511 8239381 ef9a94c925cc98b25efb040a05990681 ""
   "c:/texlive/2024/texmf.cnf" 1725486208 713 614551405fc44b98efbf516466e3c909 ""
-  "main.aux" 1725543077 4263 ae9576077f5e40d5068b3f46d2ec14ec "pdflatex"
+  "main.aux" 1725547389 4857 9ec2458530e9893db66e66c1b055b897 "pdflatex"
   "main.bbl" 1725542679 486 76d65a242ec496c9b4361af646ff12cb "biber main"
-  "main.out" 1725543077 3406 c8924418f8a9219339748c31e2ef9fe6 "pdflatex"
-  "main.run.xml" 1725543077 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
+  "main.out" 1725547389 3671 91262fb04b897845bc131218d1153e58 "pdflatex"
+  "main.run.xml" 1725547389 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
   "main.tex" 1725542276 612 6acab989259d1b796deb567aded9fd5c ""
-  "main.toc" 1725543077 1720 566251d3309236be6a1b1127b08c0e98 "pdflatex"
+  "main.toc" 1725547389 1892 da2100664b2b3813e6d17d3fe5cc9374 "pdflatex"
   "preamble.tex" 1725542276 9941 521366d51e071fe2ae23c11933fe0339 ""
   (generated)
   "main.aux"

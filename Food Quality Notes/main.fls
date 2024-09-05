@@ -486,6 +486,11 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/psnfss/ts1pplx.fd
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9c.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr9c.vf
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplrc8r.tfm
+INPUT ./Figures/qualVSvar.JPG
+INPUT ./Figures/qualVSvar.JPG
+INPUT ./Figures/qualVSvar.JPG
+INPUT ./Figures/qualVSvar.JPG
+INPUT ./Figures/qualVSvar.JPG
 INPUT ./Figures/DemingCircle.png
 INPUT ./Figures/DemingCircle.png
 INPUT ./Figures/DemingCircle.png
