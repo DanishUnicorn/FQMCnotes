@@ -1,18 +1,19 @@
 # Fdb version 4
-["biber main"] 1725542677.1899 "main.bcf" "main.bbl" "main" 1725876174.65281 0
-  "main.bcf" 1725876174 108087 51f8655dfc7ed08e0d1265dcfd1a4da1 "pdflatex"
+["biber main"] 1725542677.1899 "main.bcf" "main.bbl" "main" 1725878117.96487 0
+  "main.bcf" 1725878117 108087 51f8655dfc7ed08e0d1265dcfd1a4da1 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1725876170.90628 "c:/Users/lucas/iCloudDrive/Desktop/Folders/Coding/TempLocal/FQMCnotes/Food Quality Notes/main.tex" "main.pdf" "main" 1725876174.65394 0
+["pdflatex"] 1725878113.99078 "c:/Users/lucas/iCloudDrive/Desktop/Folders/Coding/TempLocal/FQMCnotes/Food Quality Notes/main.tex" "main.pdf" "main" 1725878117.96592 0
   "Figures/DemingCircle.png" 1725542276 90864 5a2eccbbe805d4985dcb2f04fa052b65 ""
+  "Figures/Meassurments.JPG" 1725877891 22331 ccd8db85fb09ac4b77b974b3e6934207 ""
   "Figures/Parma Ham - Organization Diagram.png" 1725542276 88791 ab011f3dfe81256739a0379d36fc2ae1 ""
   "Figures/ThoroughDC.png" 1725542276 732579 789108f4d7b5c884854e7577af581352 ""
   "Figures/qualVSvar.JPG" 1725546766 16071 e36d37d506853d50389c25b55a497c5e ""
   "TexFiles/appendix.tex" 1725542276 22 03e77c6142016f57df14e2aed2d46d67 ""
   "TexFiles/chapter1.tex" 1725542276 3731 058428f680ef50b6266d65c78ba45514 ""
-  "TexFiles/chapter2.tex" 1725876166 11706 765e74323645e6908efa09a4c5cba783 ""
+  "TexFiles/chapter2.tex" 1725878084 13665 de04a4ea00e1783cc2b9525d2c6723cb ""
   "TexFiles/chapter3.tex" 1725542276 6142 7dda6c290f3513070e014100558a4e43 ""
   "TexFiles/frontpage.tex" 1725542276 676 a52db9df9ca28f2581cda656b03d578e ""
   "c:/Users/lucas/iCloudDrive/Desktop/Folders/Coding/TempLocal/FQMCnotes/Food Quality Notes/main.tex" 1725542276 612 6acab989259d1b796deb567aded9fd5c ""
@@ -250,12 +251,12 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1725486235 5543950 2aa73a438b7054b2327b796fbe5f4275 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1725486511 8239381 ef9a94c925cc98b25efb040a05990681 ""
   "c:/texlive/2024/texmf.cnf" 1725486208 713 614551405fc44b98efbf516466e3c909 ""
-  "main.aux" 1725876174 5361 d114361acf2d11a85486045b46075d8d "pdflatex"
+  "main.aux" 1725878117 6028 bf861a09336ec8afdc67deb243f82150 "pdflatex"
   "main.bbl" 1725542679 486 76d65a242ec496c9b4361af646ff12cb "biber main"
-  "main.out" 1725876174 4372 205675400f4e045521812f2ce6dd41e1 "pdflatex"
-  "main.run.xml" 1725876174 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
+  "main.out" 1725878117 4793 ebac74a2c7e4a31cef0ba0de326a2dc8 "pdflatex"
+  "main.run.xml" 1725878117 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
   "main.tex" 1725542276 612 6acab989259d1b796deb567aded9fd5c ""
-  "main.toc" 1725876174 2209 d44affa6541c5cd9deadbbdf475df75f "pdflatex"
+  "main.toc" 1725878117 2390 556e4e80f85108be40d2b6fdfb9eba9e "pdflatex"
   "preamble.tex" 1725542276 9941 521366d51e071fe2ae23c11933fe0339 ""
   (generated)
   "main.aux"

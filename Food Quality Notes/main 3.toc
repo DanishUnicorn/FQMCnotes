@@ -19,7 +19,7 @@
 \contentsline {subsection}{\numberline {2.1.5}Variability through measurements}{7}{subsection.2.1.5}%
 \contentsline {section}{\numberline {2.2}05.09.24 - ISO 22000:2018 - A food safety management system standard}{7}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Deming Circle}{8}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}ISO 22000}{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.2}ISO 22000}{10}{subsection.2.2.2}%
 \contentsline {section}{\numberline {2.3}05.09.24 - HACCP - step 9: monitoring procedures}{10}{section.2.3}%
 \contentsline {chapter}{\numberline {3}Groupe Work}{12}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Case Exercises}{12}{section.3.1}%
