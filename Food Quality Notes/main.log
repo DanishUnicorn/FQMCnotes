@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  10 SEP 2024 09:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  10 SEP 2024 10:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1226,10 +1226,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <Figures/Meassurments.JPG, id=205, 511.9125pt x 240.9pt>
 File: Figures/Meassurments.JPG Graphic file (type jpg)
 <use Figures/Meassurments.JPG>
-Package pdftex.def Info: Figures/Meassurments.JPG  used on input line 109.
+Package pdftex.def Info: Figures/Meassurments.JPG  used on input line 110.
 (pdftex.def)             Requested size: 386.95897pt x 182.09709pt.
 
-Overfull \hbox (71.64948pt too wide) in paragraph at lines 117--121
+Overfull \hbox (71.64948pt too wide) in paragraph at lines 118--122
 \T1/pplx/m/n/10 achieve its ob-jec-tives. There were given a link which can be used to get more in-for-ma-tion: https://www.iso.org/management-
  []
 
@@ -1237,12 +1237,12 @@ Overfull \hbox (71.64948pt too wide) in paragraph at lines 117--121
 <Figures/DemingCircle.png, id=212, 531.9875pt x 499.8675pt>
 File: Figures/DemingCircle.png Graphic file (type png)
 <use Figures/DemingCircle.png>
-Package pdftex.def Info: Figures/DemingCircle.png  used on input line 152.
+Package pdftex.def Info: Figures/DemingCircle.png  used on input line 153.
 (pdftex.def)             Requested size: 193.47578pt x 181.79034pt.
 <Figures/ThoroughDC.png, id=215, 663.47874pt x 528.97626pt>
 File: Figures/ThoroughDC.png Graphic file (type png)
 <use Figures/ThoroughDC.png>
-Package pdftex.def Info: Figures/ThoroughDC.png  used on input line 161.
+Package pdftex.def Info: Figures/ThoroughDC.png  used on input line 162.
 (pdftex.def)             Requested size: 483.69687pt x 385.64095pt.
  [8 <./Figures/DemingCircle.png>] [9 <./Figures/ThoroughDC.png>] [10] [11]) (./TexFiles/chapter3.tex [12]
 Chapter 3.
@@ -1279,13 +1279,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  42995 strings out of 474116
  890453 string characters out of 5743682
- 1944187 words of memory out of 5000000
+ 1945187 words of memory out of 5000000
  64684 multiletter control sequences out of 15000+600000
  625319 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,12n,98p,1207b,885s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/nimbus15/zhv-Bol.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/nimbus15/zhv-BolIta.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/nimbus15/zhv-Reg.pfb>
-Output written on main.pdf (18 pages, 914083 bytes).
+Output written on main.pdf (18 pages, 914186 bytes).
 PDF statistics:
  310 PDF objects out of 1000 (max. 8388607)
  267 compressed objects within 3 object streams
