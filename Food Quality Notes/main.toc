@@ -21,6 +21,8 @@
 \contentsline {subsection}{\numberline {2.2.1}Deming Circle}{8}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}ISO 22000}{8}{subsection.2.2.2}%
 \contentsline {section}{\numberline {2.3}05.09.24 - HACCP - step 9: monitoring procedures}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}10.09.24 - Group presentation of case 1}{11}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Group 1}{11}{subsection.2.4.1}%
 \contentsline {chapter}{\numberline {3}Groupe Work}{12}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Case Exercises}{12}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Case 1 (Intro Case; Parma Ham A/S) - 03.09.24}{12}{subsection.3.1.1}%
