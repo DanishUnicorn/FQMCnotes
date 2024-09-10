@@ -504,6 +504,10 @@ INPUT ./Figures/ThoroughDC.png
 INPUT ./Figures/ThoroughDC.png
 INPUT ./Figures/ThoroughDC.png
 INPUT ./Figures/ThoroughDC.png
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr9e.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/adobe/palatino/pplr9e.vf
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
 INPUT ./TexFiles/chapter3.tex
 INPUT ./TexFiles/chapter3.tex
 INPUT TexFiles/chapter3.tex

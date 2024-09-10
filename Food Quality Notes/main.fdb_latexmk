@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 1725951254.75298 "main.bcf" "main.bbl" "main" 1725951701.94495 0
-  "main.bcf" 1725951701.66428 107351 0470ecce0075ae5b433b575e6548d19b "pdflatex"
+["biber main"] 1725951254.75298 "main.bcf" "main.bbl" "main" 1725953570.21327 0
+  "main.bcf" 1725953569.93274 107351 0470ecce0075ae5b433b575e6548d19b "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1725951698.18722 "/Users/bruger/Desktop/Folders/Coding/TempLocal/FQMCnotes/Food Quality Notes/main.tex" "main.pdf" "main" 1725951701.94556 0
+["pdflatex"] 1725953566.29598 "/Users/bruger/Desktop/Folders/Coding/TempLocal/FQMCnotes/Food Quality Notes/main.tex" "main.pdf" "main" 1725953570.21369 0
   "/Users/bruger/Desktop/Folders/Coding/TempLocal/FQMCnotes/Food Quality Notes/main.tex" 1725542276 612 02324680697c1a7fabfd40fc4c4056bb ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/nimbus15/nimbus15-ec.enc" 1452378523 13514 46bb9e8658b01f201979f9b55112df2b ""
@@ -247,15 +247,15 @@
   "Figures/qualVSvar.JPG" 1725546766 16071 e36d37d506853d50389c25b55a497c5e ""
   "TexFiles/appendix.tex" 1725542276 22 03e77c6142016f57df14e2aed2d46d67 ""
   "TexFiles/chapter1.tex" 1725542276 3731 058428f680ef50b6266d65c78ba45514 ""
-  "TexFiles/chapter2.tex" 1725951694.1993 13897 a1cb24c715fb451702c06869ed2eac0a ""
+  "TexFiles/chapter2.tex" 1725953565.94866 16209 622fb1b801c445c5abc9f3fbf9181674 ""
   "TexFiles/chapter3.tex" 1725542276 6142 7dda6c290f3513070e014100558a4e43 ""
   "TexFiles/frontpage.tex" 1725542276 676 a52db9df9ca28f2581cda656b03d578e ""
-  "main.aux" 1725951701.65549 6281 bc1d23c13b11763d1c24ef1802d28c63 "pdflatex"
+  "main.aux" 1725953569.9253 6485 19dd75334c613487d391b066c5381d0a "pdflatex"
   "main.bbl" 1725951289.97998 466 ee04f40f768daeed26442158e95aba61 "biber main"
-  "main.out" 1725951701.65891 5161 0b8a9966e4e8e7b363e593ecf43a380b "pdflatex"
-  "main.run.xml" 1725951701.6659 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
+  "main.out" 1725953569.92731 5623 5b455af403add3fd3272289934c26792 "pdflatex"
+  "main.run.xml" 1725953569.93409 2305 52095dfad395b381e9a32937e764a41c "pdflatex"
   "main.tex" 1725542276 612 6acab989259d1b796deb567aded9fd5c ""
-  "main.toc" 1725951701.66618 2568 b6a9e49bab4ce9a9174ed55707888fe2 "pdflatex"
+  "main.toc" 1725953569.93425 2710 1b01a03a34f3f1a92dac05572ee7d683 "pdflatex"
   "preamble.tex" 1725542276 9941 521366d51e071fe2ae23c11933fe0339 ""
   (generated)
   "main.aux"

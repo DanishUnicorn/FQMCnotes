@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  10 SEP 2024 09:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.25)  10 SEP 2024 09:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1213,7 +1213,7 @@ File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 ) [4
 
 ]
-<Figures/qualVSvar.JPG, id=189, 383.18156pt x 319.94531pt>
+<Figures/qualVSvar.JPG, id=194, 383.18156pt x 319.94531pt>
 File: Figures/qualVSvar.JPG Graphic file (type jpg)
 <use Figures/qualVSvar.JPG>
 Package pdftex.def Info: Figures/qualVSvar.JPG  used on input line 68.
@@ -1223,7 +1223,7 @@ Package pdftex.def Info: Figures/qualVSvar.JPG  used on input line 68.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [5] [6 <./Figures/qualVSvar.JPG>]
-<Figures/Meassurments.JPG, id=200, 511.9125pt x 240.9pt>
+<Figures/Meassurments.JPG, id=205, 511.9125pt x 240.9pt>
 File: Figures/Meassurments.JPG Graphic file (type jpg)
 <use Figures/Meassurments.JPG>
 Package pdftex.def Info: Figures/Meassurments.JPG  used on input line 109.
@@ -1234,36 +1234,36 @@ Overfull \hbox (71.64948pt too wide) in paragraph at lines 117--121
  []
 
 [7 <./Figures/Meassurments.JPG>]
-<Figures/DemingCircle.png, id=207, 531.9875pt x 499.8675pt>
+<Figures/DemingCircle.png, id=212, 531.9875pt x 499.8675pt>
 File: Figures/DemingCircle.png Graphic file (type png)
 <use Figures/DemingCircle.png>
 Package pdftex.def Info: Figures/DemingCircle.png  used on input line 152.
 (pdftex.def)             Requested size: 193.47578pt x 181.79034pt.
-<Figures/ThoroughDC.png, id=210, 663.47874pt x 528.97626pt>
+<Figures/ThoroughDC.png, id=215, 663.47874pt x 528.97626pt>
 File: Figures/ThoroughDC.png Graphic file (type png)
 <use Figures/ThoroughDC.png>
 Package pdftex.def Info: Figures/ThoroughDC.png  used on input line 161.
 (pdftex.def)             Requested size: 483.69687pt x 385.64095pt.
- [8 <./Figures/DemingCircle.png>] [9 <./Figures/ThoroughDC.png>] [10]) (./TexFiles/chapter3.tex [11]
+ [8 <./Figures/DemingCircle.png>] [9 <./Figures/ThoroughDC.png>] [10] [11]) (./TexFiles/chapter3.tex [12]
 Chapter 3.
 LaTeX Font Info:    Font shape `T1/NimbusSans/b/it' will be
 (Font)              scaled to size 12.0pt on input line 40.
-[12
+[13
 
-] [13]
-<Figures/Parma Ham - Organization Diagram.png, id=241, 757.83125pt x 437.635pt>
+] [14]
+<Figures/Parma Ham - Organization Diagram.png, id=250, 757.83125pt x 437.635pt>
 File: Figures/Parma Ham - Organization Diagram.png Graphic file (type png)
 <use Figures/Parma Ham - Organization Diagram.png>
 Package pdftex.def Info: Figures/Parma Ham - Organization Diagram.png  used on input line 89.
 (pdftex.def)             Requested size: 386.95897pt x 223.46468pt.
- [14 <./Figures/Parma Ham - Organization Diagram.png>]) (./TexFiles/appendix.tex [15]
+ [15 <./Figures/Parma Ham - Organization Diagram.png>]) (./TexFiles/appendix.tex [16]
 Appendix A.
 )
 
 Package caption Warning: Unused \captionsetup[table] on input line 29.
 See the caption package documentation for explanation.
 
-[16
+[17
 
 ] (./main.aux)
  ***********
@@ -1271,24 +1271,24 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0B8A9966E4E8E7B363E593ECF43A380B;5161.
+(rerunfilecheck)             Checksum: 5B455AF403ADD3FD3272289934C26792;5623.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42987 strings out of 474116
- 890354 string characters out of 5743682
- 1945187 words of memory out of 5000000
- 64680 multiletter control sequences out of 15000+600000
- 622689 words of font info for 89 fonts, out of 8000000 for 9000
+ 42995 strings out of 474116
+ 890453 string characters out of 5743682
+ 1944187 words of memory out of 5000000
+ 64684 multiletter control sequences out of 15000+600000
+ 625319 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,12n,98p,1207b,885s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/nimbus15/zhv-Bol.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/nimbus15/zhv-BolIta.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/nimbus15/zhv-Reg.pfb>
-Output written on main.pdf (17 pages, 910515 bytes).
+Output written on main.pdf (18 pages, 914062 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
- 53 named destinations out of 1000 (max. 500000)
- 286 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 310 PDF objects out of 1000 (max. 8388607)
+ 267 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 294 words of extra memory for PDF output out of 10000 (max. 10000000)
 
