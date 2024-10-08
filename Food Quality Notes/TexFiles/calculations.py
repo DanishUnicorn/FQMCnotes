@@ -1,6 +1,6 @@
 # ----------------------------------------------- Case 5 calculations Cp calculations -----------------------------------------------
 
-# Specification limits
+# Specification temperature limits
 USL = 16.3  # Upper Specification Limit (USL)
 LSL = 15.7  # Lower Specification Limit (LSL)
 
@@ -10,8 +10,8 @@ machine_names = ['Machine A', 'Machine B', 'Machine C', 'Machine D', 'Machine E'
 # Std devs for the machines
 std_devs = [0.05, 0.02, 0.10, 0.05, 0.20]  # Std devs for the 5 machines respectively
 
-# Mean for the machines
-means = [16.0, 16.2, 16.2, 15.9, 16.0]  # Means for the 5 machines respectively
+# Mean temperatures for the machines
+means = [16.0, 16.2, 16.2, 15.9, 16.0]  # Mean temperatures for the 5 machines, respectively
 
 # ----------------------------------------------- Case 5 calculations Cp calculations -----------------------------------------------
 
