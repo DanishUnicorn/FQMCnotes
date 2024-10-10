@@ -1,5 +1,4 @@
 NFOK15011U - Food Quality Management and Control Course Notes
-
 Welcome to the NFOK15011U Course Notes repository! This repository is created for students enrolled in the NFOK15011U course at the University of Copenhagen, covering the period from September to November 2024.
 
 
